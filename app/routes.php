@@ -18,3 +18,5 @@ Route::get('/', function()
 
 Route::get('/proyecto', 'ProyectoController@proyecto');
 Route::get('/mas-informacion', 'ProyectoController@info');
+
+Route::get('/conocenos', 'ProyectoController@conocenos');
