@@ -10,11 +10,9 @@
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
-<link rel="stylesheet" href="css/style.css">
-
 <!-- Latest compiled and minified JavaScript -->
-<script src="js/jquery.js"></script>
-<script src="js/bootstrapp.js"></script>
+<script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+<script src="http://getbootstrap.com/assets/js/docs.min.js"></script>
 
 </head>
 <body>
