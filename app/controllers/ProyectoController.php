@@ -3,9 +3,13 @@
 class ProyectoController extends BaseController {
 
 	public function index(){
-		return View::make('hello');
+		return View::make('cbtis.proyecto');
 	}
 
+	public function home(){
+		return View::make('cbtis.proyecto');
+	}
+	
 	public function proyecto(){
 		return View::make('cbtis.proyecto');
 	}
