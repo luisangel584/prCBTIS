@@ -14,4 +14,11 @@ class ProyectoController extends BaseController {
 		return View::make('cbtis.info');
 	}
 
+	public function materias(){
+		return View::make('cbtis.materias');
+	}
+
+	public function conocenos(){
+		return View::make('cbtis.conocenos');
+	}
 }

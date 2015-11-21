@@ -34,7 +34,7 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
 	        <li class="active"><a href="#">Calificaciones <span class="sr-only">(current)</span></a></li>
-	        <li><a href="#">Materias</a></li>
+	        <li><a href="materias">Materias</a></li>
 	        <!--
 	        <li class="dropdown">
 	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Amigos <span class="caret"></span></a>
