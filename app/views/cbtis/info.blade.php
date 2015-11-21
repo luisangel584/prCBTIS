@@ -26,7 +26,7 @@ Más información
       <div class="caption">
         <h3>Nosotros</h3>
         <p>Somos el equipo de Desarrolladores</p>
-        <p><a href="/conocenos" class="btn btn-default" role="button">Conócenos! <i class="glyphicon glyphicon-user"></i> </a></p>
+        <p><a href="conocenos" class="btn btn-default" role="button">Conócenos! <i class="glyphicon glyphicon-user"></i> </a></p>
       </div>
     </div>
   </div>
