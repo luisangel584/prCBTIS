@@ -7,7 +7,7 @@ Más información
 @section('content')
 
 <div class="row">
-  <div class="col-sm-6 col-md-4">
+  <div class="col-sm-6 col-md-6">
     <div class="thumbnail">
       <img class="img-responsive" src="http://cbtis28.mx/media/rokgallery/b/bf79d521-12d0-46f7-9b03-a43c1dcd02e3/8077c042-1889-4675-e240-6db1aa2b20ec.jpg" alt="...">
       <div class="caption">
@@ -20,7 +20,7 @@ Más información
     </div>
   </div>
 
-  <div class="col-sm-6 col-md-4">
+  <div class="col-sm-6 col-md-6">
     <div class="thumbnail">
       <img src="http://cbtis28.mx/media/rokgallery/b/bf79d521-12d0-46f7-9b03-a43c1dcd02e3/8077c042-1889-4675-e240-6db1aa2b20ec.jpg" alt="...">
       <div class="caption">

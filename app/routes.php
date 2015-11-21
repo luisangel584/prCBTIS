@@ -11,6 +11,7 @@
 |
 */
 
+Route::get('/', 'ProyectoController@home');
 Route::get('/home', 'ProyectoController@home');
 Route::get('/proyecto', 'ProyectoController@proyecto');
 Route::get('/mas-informacion', 'ProyectoController@info');
