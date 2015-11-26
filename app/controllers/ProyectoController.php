@@ -25,6 +25,9 @@ class ProyectoController extends BaseController {
 	public function conocenos(){
 		return View::make('cbtis.conocenos');
 	}
+	public function preguntasfrecuentes(){
+		return View::make('cbtis.preguntasfrecuentes');
+	}
 
 }
 

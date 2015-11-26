@@ -11,5 +11,20 @@ Página del Proyecto
   <p><a class="btn btn-primary btn-lg" href="mas-informacion" role="button">
   	Más información
   </a></p>
+  <p ><a href="preguntasfrecuentes">¿Preguntas frecuentes?</a></p>
+</div>
+<div class="jumbotron">
+  <h3>Inicia Seccion</h3>
+  <div class="input-group input-group-lg">
+  <span class="input-group-addon glyphicon glyphicon-user" id="sizing-addon1"></span>
+  <input type="text" class="form-control" placeholder="Nombre de Usuario" aria-describedby="sizing-addon1">
+</div>
+<div class="input-group input-group-lg">
+  <span class="input-group-addon glyphicon glyphicon-lock" id="sizing-addon1"></span>
+  <input type="password" class="form-control" placeholder="Contraseña" aria-describedby="sizing-addon1">
+</div>
+ <p><a class="btn btn-primary btn-lg" href="#" role="button">
+  	Iniciar Sección
+  </a></p>
 </div>
 @stop

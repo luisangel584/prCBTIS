@@ -85,12 +85,21 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-md-1 col-xs-1"></div>
+			<div class="col-md-1 col-xs"></div>
 			<div class="col-md-10 col-xs-10">
 				@yield('content')
 			</div>
 		</div>
 	</div>
-	
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-1 col-xs"></div>
+			<div class="col-md-10 col-xs-10">
+				
+			</div>
+		</div>
+	</div>
+
 </body>
 </html>
