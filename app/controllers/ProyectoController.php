@@ -28,6 +28,8 @@ class ProyectoController extends BaseController {
 	public function preguntasfrecuentes(){
 		return View::make('cbtis.preguntasfrecuentes');
 	}
-
+	public function registro(){
+		return View::make('cbtis.registro');
+	}
 }
 
