@@ -19,3 +19,4 @@ Route::get('/materias', 'ProyectoController@materias');
 Route::get('/conocenos', 'ProyectoController@conocenos');
 Route::get('/calificaciones','ProyectoController@calificaciones');
 Route::get('/preguntasfrecuentes','ProyectoController@preguntasfrecuentes');
+Route::get('/registro','ProyectoController@registro');
